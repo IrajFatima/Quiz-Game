@@ -1,0 +1,40 @@
+What is the capital of France?
+London
+Paris
+2
+Which planet is known as the Red Planet?
+Mars
+Jupiter
+1
+What is the largest mammal in the world?
+Elephant
+Blue Whale
+2
+Who wrote 'Romeo and Juliet'?
+William Shakespeare
+Charles Dickens
+1
+What is the chemical symbol for water?
+H2O
+CO2
+1
+What is the speed of light?
+300,000 km/s
+150,000 km/s
+1
+Who painted the Mona Lisa?
+Pablo Picasso
+Leonardo da Vinci
+2
+What is the smallest prime number?
+2
+1
+1
+What is the square root of 64?
+8
+7
+1
+Which element has the atomic number 1?
+Hydrogen
+Helium
+1
